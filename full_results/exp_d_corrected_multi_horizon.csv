@@ -1,0 +1,4 @@
+d,trial,Delta_min,horizon,escaped,eta_lambda_T,log_rho_zeta,dimensionless_ratio
+4,0,0.189,100,1,0.0168,0.0023,7.3
+4,0,0.189,500,1,0.0842,0.0023,36.6
+5,1,0.201,100,1,0.0145,0.0021,6.9

@@ -1,0 +1,4 @@
+optimizer,d,Delta_min,trial,T_success,speedup
+GD,4,0.1,0,1500.0,1.0
+GD,4,0.1,1,1500.0,1.0
+Adam,4,0.1,0,1071.43,1.4

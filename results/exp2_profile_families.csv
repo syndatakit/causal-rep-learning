@@ -1,0 +1,4 @@
+d,family,Delta_min,lambda_min,trial
+4,random,0.18,0.032,1
+5,linear,0.22,0.048,1
+8,geometric,0.25,0.063,1

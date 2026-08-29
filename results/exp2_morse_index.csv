@@ -1,0 +1,4 @@
+d,perm_type,N_neg,cycle_len
+3,transposition,1,2
+4,3-cycle,2,3
+5,4-cycle,3,4

@@ -1,0 +1,4 @@
+optimizer,d,Delta_min,T_success,exponent
+GD,4,0.15,1500,-2.0
+Adam,4,0.15,1050,-1.6
+L-BFGS,4,0.15,900,-1.4
